@@ -54,6 +54,12 @@ How it works:
 - The release asset must be named exactly: **`PDF-Buddy.exe`**
 
 ---
+## License
+PDF Buddy is provided as **freeware**.
+Use is free, but redistribution, modification, and resale are not permitted.
+See `LICENSE.txt` for details.
+
+---
 
 ## Notes / Requirements
 - Windows 10/11
